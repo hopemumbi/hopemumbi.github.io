@@ -1,6 +1,6 @@
-# Statistician
+# Data Analyst
 
-#### Technical Skills: Python, SQL, Tableau, R, PowerBI, Advanced Excel
+#### Technical Skills: R, SQL
 
 ## Education
 - B.S., Statistics | University of Nairobi (_Dec 2024_)
@@ -20,9 +20,7 @@ Conducted a comprehensive data cleaning process on a dataset of global company l
 ### Exploratory Data Analysis on Iris Data Set
 [Iris Data Set](https://rpubs.com/hopemumbi/iris-data-exploration)
 
-### Time Series Analysis of Crude Oil Prices
-[WTI Crude Oil Prices](https://rpubs.com/hopemumbi/iris-data-exploration)
-
 ## Activities
 
 - [Data Science Blog](https://medium.com/@hopemumbi)
+
